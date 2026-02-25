@@ -1,7 +1,7 @@
 # 🐧 Kodupark Mini Boyama ve Yapboz – WebGL Eğitici Oyun Projesi
 Kodupark Mini, 3-5 yaş arası okul öncesi çocukların görsel algı, ince motor becerileri ve temel algoritmik düşünme yeteneklerini geliştirmek için tasarlanmış etkileşimli bir boyama ve bulmaca platformudur. Unity ile geliştirilen bu proje, çocukların dijital dünyadaki ilk adımlarını güvenli ve eğlenceli bir şekilde atmalarını sağlar.
 
-<a href="https://buseyyy.github.io/Kodupark2-Build/">
+<a href="https://buseyyy.github.io/KoduparkMini-Boyama-ve-Yapboz/">
   <img 
     src="https://github.com/user-attachments/assets/bdc4351a-4915-44d7-b3ea-2aa9315bfd88" 
     width="350"
